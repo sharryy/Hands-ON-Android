@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "473498038703",
+    "firebase_url": "https://uberclone63.firebaseio.com",
+    "project_id": "uberclone63",
+    "storage_bucket": "uberclone63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473498038703:android:8e2ef6710687eb435d3f5a",
+        "android_client_info": {
+          "package_name": "com.anonymous.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlAB_FxBRlmB5tkAs3FzcQF556Meyh_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473498038703:android:c78d4927fa986b795d3f5a",
+        "android_client_info": {
+          "package_name": "com.anonymous.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473498038703-qa4kmblbhlk91eh330grpe73g57qd4ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.uberclone",
+            "certificate_hash": "5d11faab959f24005519536c2bb9661bb31a4451"
+          }
+        },
+        {
+          "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlAB_FxBRlmB5tkAs3FzcQF556Meyh_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473498038703:android:7f12e7805d84d41f5d3f5a",
+        "android_client_info": {
+          "package_name": "com.example.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlAB_FxBRlmB5tkAs3FzcQF556Meyh_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473498038703-g98i8l6uhfc7h3asqljt5s5k93g097ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
